@@ -1,0 +1,49 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "to_email_address&SequenceX_1",
+        "results_count_as_number&SequenceX_1",
+        "search_results_count&SequenceX_1",
+        "regulation_title&SequenceX_1",
+        "regulation_entityname&SequenceX_1",
+        "pending_days&SequenceX_1",
+        "about_the_project_text&SequenceX_1",
+        "full_project_text&SequenceX_1",
+        "heading&SequenceX_1",
+        "CurrentItem3&SequenceX_1",
+        "description&SequenceX_1",
+        "index&SequenceX_1",
+        "expected_impact&SequenceX_1",
+        "stakeholders&SequenceX_1",
+        "match_found&SequenceX_1",
+        "DT1&SequenceX_1",
+        "sub_heading&SequenceX_1",
+        "index2&SequenceX_1",
+        "output_element2&SequenceX_1",
+        "Instructions&SequenceX_1",
+        "prompt&SequenceX_1",
+        "final_text&SequenceX_1",
+        "temp&SequenceX_1",
+        "topGeneratedText&SequenceX_1",
+        "trimmed_full_text&SequenceX_1",
+        "subject&SequenceX_1",
+        "full_text_as_list&SequenceX_1",
+        "count_lines&SequenceX_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}
